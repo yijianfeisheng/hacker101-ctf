@@ -24,7 +24,7 @@
 | Expert (13 / flag)  | [Model E1337 v2 - Hardened Rolling Code Lock][14] | Math        | 0 / 1      |
 | Moderate (3 / flag) | [Intentional Exercise][15]                        | Android     | 0 / 1      |
 | Moderate (4 / flag) | [Hello World!][16]                                | Native      | 0 / 1      |
-| Expert (9 / flag)   | [Rend Asunder][17]                                | Native      | 0 / 3      |
+| Expert (9 / flag)   | [Rend Asunder][17]                                | Native      | 1 / 3      |
 
 [1]: https://ctf.hacker101.com/ctf
 [2]: ./a_little_something_to_get_you_started
